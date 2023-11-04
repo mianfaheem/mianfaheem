@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="mianfaheem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mianfaheem" alt="mianfaheem" /></a> </p>
 
 - 🌱 I’m currently learning **Devops new services | New technoligies**
 
