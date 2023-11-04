@@ -14,7 +14,7 @@
     - https://www.evolvephysicalfitness.com
     - https://www.triumphofgrace.org
     - https://www.dreamstuff.co.uk
-    - hhtps://staging.esprayme.com
+    - https://staging.esprayme.com
 
 
 - 🌱 I’m currently learning **Devops new services | New technoligies**
