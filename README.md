@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **faheemdev18@gmail.com | 03219427452**
 
-- 📄 Know about my experiences [5 years in CMS | CRM | CUSTOM Web/Mobile | DevOps | Integration](5 years in CMS | CRM | CUSTOM Web/Mobile | DevOps | Integration)
+- 📄 Know about my experiences (5 years in CMS | CRM | CUSTOM Web/Mobile | DevOps | Integration)
 
 - ⚡ Fun fact **I'm well versed with all development practices and can add great value to your project😎**
 
