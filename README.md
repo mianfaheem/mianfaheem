@@ -1,4 +1,4 @@
-![logo](https://github.com/AmmarKhan3/AmmarKhan3/blob/main/faheem_git_banner.jpg)
+![logo](https://github.com/mianfaheem/mianfaheem/blob/main/faheem_git_banner.jpg)
 <h1 align="center">Hi 👋, I'm Faheem Fiaz</h1>
 <h3 align="center">End-to-End Web/Mobile Dev & DevOps Innovator</h3>
 
