@@ -18,7 +18,7 @@
     - https://staging.esprayme.com
 
 
-- 🌱 I’m currently learning **Devops new services | New technoligies**
+- 🌱 I’m currently learning **Devops new services | New technologies**
 
 - 💬 Ask me about **MEAN | MERN | LAMP | CMS | DEVOPS**
 
